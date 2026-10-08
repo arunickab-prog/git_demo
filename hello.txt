@@ -1,4 +1,4 @@
 "Hello git!" 
 This is my 1st line
 2nd line added in feature-1
-3rd line added form local repo
+3rd line added form local repo.
