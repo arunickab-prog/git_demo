@@ -4,3 +4,4 @@ This is my 1st line
 3rd line added form local repo.
 5th line from remote.
 6th line from remote.
+7th line added  by dev1.
